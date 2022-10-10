@@ -1,0 +1,3 @@
+SHELL REDIRECTIONS
+
+Task 0 - 
